@@ -4,7 +4,7 @@
 ##Parte I - Esta versão não utiliza a localização do usuário
 Esta primeira versão do App iremos consumir a previsão de clima da HGBrasil sem utilizar GPS.
 
-<img src="" alt="ScreenShot ClimaApp" height="480px">
+<img src="climapp.jpeg" alt="ScreenShot ClimaApp" height="480px">
 
 ### OPCIONAL - Tutorial ClimApp completo com GPS
 Neste tutorial voces podem fazer o App completo, utilizem de o preferirem [Link GiLab](https://gitlab.com/esdrasilva/climapphowto). Porem nesta versão não é utilizado RecyclerViews e também não foi utilizado o Jackson para conversão de dados de JSON para POJO.
