@@ -63,6 +63,12 @@ override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): WeatherViewHo
     }
 ```
 
-4. Após atualizar o Adapter, teste o App!
+5. Atualize a url da requisição para o ID de Cosmópolis no método main de `ActivityMain.kt`.
+
+```kotlin
+val url = "https://api.hgbrasil.com/weather?woeid=456158"
+```
+
+4. Após atualizar o Adapter, teste o App econfira a previsão do tempo para sua cidade agora; e na RecyclerView as previsões resumidas para os próximos 10 dias.
 
 # Concluímos! Parabens por chegar até aqui!
